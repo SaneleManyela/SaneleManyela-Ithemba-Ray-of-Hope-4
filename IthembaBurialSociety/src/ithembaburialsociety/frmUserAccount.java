@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmUserAccount extends javax.swing.JInternalFrame {
 
