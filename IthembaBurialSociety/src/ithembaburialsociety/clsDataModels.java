@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
-    * @author Oriana
+    * @author Sanele
  */
 public class clsDataModels {
     private final clsDatabaseProcedures databaseProcedures = new clsDatabaseProcedures();
