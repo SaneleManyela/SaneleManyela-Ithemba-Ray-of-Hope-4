@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class clsDatabaseProcedures {
     public clsDatabaseProcedures(){
