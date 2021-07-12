@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmPrincipal extends javax.swing.JInternalFrame {
 
