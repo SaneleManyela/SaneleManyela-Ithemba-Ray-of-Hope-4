@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmViewData extends javax.swing.JInternalFrame {
 
