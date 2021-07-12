@@ -13,7 +13,7 @@ import javax.swing.border.*;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmOptions extends JDialog {
     
