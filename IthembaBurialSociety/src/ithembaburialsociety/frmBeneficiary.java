@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmBeneficiary extends javax.swing.JInternalFrame {
 
