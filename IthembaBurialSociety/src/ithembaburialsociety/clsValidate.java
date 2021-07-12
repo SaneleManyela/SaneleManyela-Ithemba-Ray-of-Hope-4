@@ -9,7 +9,7 @@ import java.util.regex.*;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class clsValidate {
     public clsValidate() {
