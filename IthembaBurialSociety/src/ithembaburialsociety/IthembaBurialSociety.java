@@ -7,7 +7,7 @@ package ithembaburialsociety;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class IthembaBurialSociety {
 
