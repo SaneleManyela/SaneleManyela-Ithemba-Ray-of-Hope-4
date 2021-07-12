@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Oriana
+ * @author Sanele
  */
 public class frmMainWindow extends javax.swing.JFrame {
 
